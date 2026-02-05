@@ -1,0 +1,3 @@
+users=53424
+books=10000
+sparsity=0.998165

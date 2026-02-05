@@ -4,11 +4,5 @@ __pycache__/
 *.pyo
 *.pyd
 .DS_Store
-*.joblib
-data/raw/
-data/processed/
 models/
-reports/metrics.json
-reports/metrics.md
-reports/figures/
 .pytest_cache/
